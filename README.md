@@ -1,0 +1,2 @@
+# Vote-2.0
+This app is continuation of vote 1 app that I had developed earlier. it contains much more features including the entire lifecycle of voting. Server side code plus db dump provided in the other repo. the backside needs some work. files not sanitized. prone to sql injection. recomendation use ssl for end to end encryption. password now encrypted with sha-1 encryption. Devs who are interested in coming on board in this project pliz contact me. 
